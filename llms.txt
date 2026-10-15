@@ -1,7 +1,7 @@
 # Modular Collage · Creator Tools · MotionGit .motion
 
 Template and full package: https://motiongit.com/@motiongit/motiongit-promo-creator
-Version: 2.5.1
+Version: 2.5.2
 Download available; current terms are listed with the package.
 
 Declared runtime profile: html-canvas/1.
