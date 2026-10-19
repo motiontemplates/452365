@@ -4,7 +4,7 @@
 
 Show how content, assets and animation fit together through modular collages for creator tools.
 
-**16:9 · 1920 × 1080 · 60 fps · v2.6.2** · [@motiongit](https://motiongit.com/@motiongit) · [简体中文](README.zh-CN.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.6.3** · [@motiongit](https://motiongit.com/@motiongit) · [简体中文](README.zh-CN.md)
 
 **[Template details, full .motion & demo](https://motiongit.com/@motiongit/motiongit-promo-creator)**
 https://motiongit.com/@motiongit/motiongit-promo-creator
