@@ -4,7 +4,7 @@
 
 以模块拼贴呈现内容、素材和动画的组合关系，适合创作者工具与工作方式介绍。
 
-**16:9 · 1920 × 1080 · 60 fps · v2.6.0** · [@motiongit](https://motiongit.com/@motiongit) · [English](README.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.6.1** · [@motiongit](https://motiongit.com/@motiongit) · [English](README.md)
 
 **[模板详情、完整 .motion 与 Demo](https://motiongit.com/@motiongit/motiongit-promo-creator)**
 https://motiongit.com/@motiongit/motiongit-promo-creator
