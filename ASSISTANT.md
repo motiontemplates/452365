@@ -3,8 +3,8 @@
 Show how content, assets and animation fit together through modular collages for creator tools.
 
 Template & full download: https://motiongit.com/@motiongit/motiongit-promo-creator
-Version: 2.6.4
-Download available; current terms are listed with the package.
+Version: 2.6.5
+Demo available. Check the official page for current download availability.
 
 ## Technical reference
 
